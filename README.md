@@ -1,4 +1,4 @@
-# Multiple-Linear-Regression-Project-Car-Price-Estimate
+# Multiple Linear Regression Project (Car-Price-Estimate)
 
 In the 1980s, a car manufacturer from the Far East wanted to enter the American market.
 
